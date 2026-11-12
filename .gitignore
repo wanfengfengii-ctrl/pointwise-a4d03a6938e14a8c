@@ -15,3 +15,6 @@ credentials.json
 *token*.json
 *.pem
 *.key
+
+# QA 运行材料（证据本体为 evidence.json）
+qa_artifacts/
